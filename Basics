@@ -1,0 +1,5 @@
+sudo apt-get install package_name
+ssh remote_user_name@IP_Adress/Domain name
+hostname
+service servicename start/stop/restart
+
